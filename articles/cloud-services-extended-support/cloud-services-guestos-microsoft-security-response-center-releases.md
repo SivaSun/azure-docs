@@ -18,6 +18,37 @@ The following tables show the Microsoft Security Response Center (MSRC) updates 
 ## February 2025 Guest OS
 | Product Category | Parent KB Article | Vulnerability Description | Guest OS | Date First Introduced |
 | --- | --- | --- | --- | --- |
+| Rel 25-03 | [5053594] | Latest Cumulative Update(LCU) | [5.104] | 11-Mar-25
+| Rel 25-03 | [5053596] | Latest Cumulative Update(LCU) | [6.80] | 11-Mar-25
+| Rel 25-03 | [5053603] | Latest Cumulative Update(LCU) | [7.50] | 11-Mar-25
+| Rel 25-02 | [5049614] | .NET Framework 4.8 Security and Quality Rollup LKG | [5.104] | 14-Jan-25
+| Rel 25-02 | [5049608] | .NET Framework DotNet | [6.80] | 14-Jan-25
+| Rel 25-02 | [5049617] | .NET Framework 4.8 Security and Quality Rollup LKG | [7.50] | 14-Jan-25
+| Rel 25-03 | [5054006] | Servicing Stack Update | [5.104] | 11-Mar-25
+| Rel 25-03 | [5054007] | Servicing Stack Update | [6.80] | 11-Mar-25
+| Rel 25-03 | [5053666] | Servicing Stack Update | [7.50] | 11-Mar-25
+| Rel 25-02 | [4494175] | January '20 Microcode | [5.104] | 01-Sep-20
+| Rel 25-02 | [4494175] | January '20 Microcode | [6.80] | 01-Sep-20
+
+[5053603]: https://support.microsoft.com/kb/5053603
+[5053596]: https://support.microsoft.com/kb/5053596
+[5053594]: https://support.microsoft.com/kb/5053594
+[5049617]: https://support.microsoft.com/kb/5049617
+[5049608]: https://support.microsoft.com/kb/5049608
+[5049614]: https://support.microsoft.com/kb/5049614
+[5053666]: https://support.microsoft.com/kb/5053666
+[5054007]: https://support.microsoft.com/kb/5054007
+[5054006]: https://support.microsoft.com/kb/5054006
+[5043167]: https://support.microsoft.com/kb/5043167
+[4494175]: https://support.microsoft.com/kb/4494175
+
+[5.104]: ./cloud-services-guestos-update-matrix.md#family-5-releases
+[6.80]: ./cloud-services-guestos-update-matrix.md#family-6-releases
+[7.50]: ./cloud-services-guestos-update-matrix.md#family-7-releases]
+
+## February 2025 Guest OS
+| Product Category | Parent KB Article | Vulnerability Description | Guest OS | Date First Introduced |
+| --- | --- | --- | --- | --- |
 | Rel 25-02 | [5052000] | Latest Cumulative Update(LCU) | [6.79] | 11-Feb-25
 | Rel 25-02 | [5051979] | Latest Cumulative Update(LCU) | [7.49] | 11-Feb-25
 | Rel 25-02 | [5052006] | Latest Cumulative Update(LCU) | [5.103] | 11-Feb-25
